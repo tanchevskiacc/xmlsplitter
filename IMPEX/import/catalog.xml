@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="http://www.demandware.com/xml/impex/catalog/2006-10-31" catalog-id="test-catalog">
+    <product product-id="Product-1">
+        <display-name xml:lang="x-default">Product-1</display-name>
+        <ean/>
+        <upc/>
+        <unit/>
+        <unit-quantity>0</unit-quantity>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <online-flag>true</online-flag>
+        <available-flag>false</available-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <classification-category catalog-id="root">root</classification-category>
+    </product>
+    <product product-id="Product-2">
+        <display-name xml:lang="x-default">Product-2</display-name>
+        <ean/>
+        <upc/>
+        <unit/>
+        <unit-quantity>0</unit-quantity>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <online-flag>true</online-flag>
+        <available-flag>false</available-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <classification-category catalog-id="root">root</classification-category>
+    </product>
+    <product product-id="Product-3">
+        <display-name xml:lang="x-default">Product-3</display-name>
+        <ean/>
+        <upc/>
+        <unit/>
+        <unit-quantity>0</unit-quantity>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <online-flag>true</online-flag>
+        <available-flag>false</available-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <classification-category catalog-id="root">root</classification-category>
+    </product>
+    <product product-id="Product-4">
+        <display-name xml:lang="x-default">Product-4</display-name>
+        <ean/>
+        <upc/>
+        <unit/>
+        <unit-quantity>0</unit-quantity>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <online-flag>true</online-flag>
+        <available-flag>false</available-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <classification-category catalog-id="root">root</classification-category>
+    </product>
+    <product product-id="Product-5">
+        <display-name xml:lang="x-default">Product-5</display-name>
+        <ean/>
+        <upc/>
+        <unit/>
+        <unit-quantity>0</unit-quantity>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <online-flag>true</online-flag>
+        <available-flag>false</available-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <classification-category catalog-id="root">root</classification-category>
+    </product>
+</catalog>
